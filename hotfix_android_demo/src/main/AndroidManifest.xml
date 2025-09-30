@@ -15,15 +15,16 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.taobao.android.hotfix.IDSECRET"
-            android:value="Yours" />
+            android:value="335607290" />
         <meta-data
             android:name="com.taobao.android.hotfix.APPSECRET"
-            android:value="Yours" />
+            android:value="xx" />
         <meta-data
             android:name="com.taobao.android.hotfix.RSASECRET"
-            android:value="Yours" />
+            android:value="MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPfEr6XrIrASGdOdPaWDf6a4lFMy74kZBV4Z3f531HI5CunoE+SVMKLSCtemw0xLGOLe1jRMtu1Dx9u1RDUUX/1OSlrV0gB8nzpb1ZwPh5H2UABufFp7qulg//GnmWqNplqEukkuHeA+/XmBUJs/evbz7YWKy+meGqvzEat4ywUsY3EPwxpWeY8vjSB7LqLXjWKaMVK1RTEypZQzQtA6ZhjCyrYUciuMBgCbtBRXTIzP7zHWOdpJS+4EOLJWy8G8pJ8MAGZoWluJdk61xYw18LbOkQjDr1zYg6rm+kYzEg95S9Hpx+kWzEY/40zZKw223ADMZIh199qCXxhApoB14rAgMBAAECggEAYMwE+OqxX3mf56V/WilxeirZrClfYqkwqf9OtiJAzaEclfCwWAi3UIIpLV8NaHvZHIW3Q+TBKL9dH6Ukr1VA19oTdgGCdX1LrGb/WnFoLq4TQPVnnlwNAIKTwBFoPU8kJrhmb1v3rAMT5mnep3EVgvCVgPYxc1P0fXAF/HQfIUNy1BJaWKx8/4NRtNHPnxIxno/Eu/Ics9FpxwQrqEJm4HcXk8kBFNaANGMbgnBg8porjSDQY8TkCTzHSTS45kTUJrmn3WObe02wUsxHPj2QkyTeTSvow7cepgdZXLp0NoBAQk41rE5x9zjmaJVo7xFl8C94nZYX5fG72IQmTvUewQKBgQDONjHvlbBqDQnV0At1VIVwSH+ruRIS4iQyDoTRnatluPPn8h9m8V2zaF4bA3qvIPXxDcVHMXOcfU2/qx3eiiL5/gAddmi2WxACZooBQhfU0HwAl+mv6AVPYRBmr1WUvI8t6QvRHkKTTHlxBSihWtQRmYLz01XwD3bmCtMJ8JkQOQKBgQCyIQkGwUyrNWzY2FI8PHPNEjrvlEtThNEPQ+xMTLK/hMa6vHNAEbhQgwMDdGgb9bxt/tese0MDbj7UuBmELBom1Edzez37893yieZEB1Ut0C7bEoEz/km5tkMJ1j/7HZ/tFCVeqpu1R/TBkWiTdhH8L07rMBCJsef1Gc7dAxKZgwKBgBBFQG1p/zBu9O606qKIV7sDTWeMQ7vPshFtCdfMPADbtgsAFLA3rTABtSMmhCCbVix97KnwYfHgBSlxY/ryJU5aV0H73Mk+qCW4V30/7Mdy58XYNq0Vfo3D19pyTSteMWHq+G64l4Itz4s2X/1TQFZfKXD5pNc7MSN3iS1ImZspAoGBAJBzTbiWpK/qgTxQIFAMzfOtJvIGFhfCiy6P7F3rjMDW0bm4/NUmCYvw0k7I5WxXGNkyYn/S7YMosfca3EZc5VA7sT2q4ZciKgh3X64nLCIcwwKQvQoG2o6piS+++N+RJJHDVpKwU9jsY0Vdv6plgyw4yQzcS2z+QpZ2uVRtG3Y1AoGAI0p13GVfrYQSMszxg0i3vBKgFaq1PAPcYR1Rzg7+WjmzFOgvr0LKxZOD//LUUfwG8Q5GcDVXL/448R+b+FEcEhzc8merlyyTN//4wASDdZH3H8L0MzmbZtCdSIyBzA4GSP6PXFdTHMBHsUMFQY4ZTM74DZ0atmKv5Ze8pONMxVY=" />
 
         <activity
+            android:exported="true"
             android:name="com.alibaba.sophix.demo.MainActivity"
             android:label="@string/app_name">
             <intent-filter>

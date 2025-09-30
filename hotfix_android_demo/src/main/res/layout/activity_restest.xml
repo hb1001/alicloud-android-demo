@@ -51,6 +51,13 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:src="@mipmap/old" />
+
+        <ImageView
+            android:id="@+id/iv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/f1" />
     </LinearLayout>
 
 
